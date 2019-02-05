@@ -1,0 +1,32 @@
+#all_rating{
+    height: 120px;
+    width: 100%;
+    /* background-color: tomato; */
+    display: flex;
+    justify-content: space-around;
+}
+#rating_child{
+    height: 120px;
+    width: 18%;
+    /* background-color: tan; */
+    
+}
+#img_field{
+    height: 85px;
+    width: 100%;
+    /* background-color: springgreen; */
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    /* border: 2px solid silver; */
+}
+#img_field img{
+    height: 60px;
+    width: 100%;
+}
+#rating_field{
+    height: 35px;
+    width: 100%;
+    background-color: blue;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+}

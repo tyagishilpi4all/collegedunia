@@ -1,0 +1,33 @@
+#style_child{
+    height: 120px;
+    width: 100%;
+}
+#parent_btn{
+    display: flex;
+}
+#parent_btn ul{
+    list-style: none;
+    margin-left: 100px;
+}
+#parent_btn ul li{
+    display: inline-block;
+    padding: 10px;
+}
+#parent_btn ul li a{
+    text-decoration: none;
+}
+#red_btn{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%;
+    border: 2px solid silver;
+    margin-left: 230px;
+}
+#blue_btn{
+    height: 20px;
+    width: 20px;
+    background-color:blue;
+    border-radius: 50%;
+    border: 2px solid silver;
+}

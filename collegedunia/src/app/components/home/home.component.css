@@ -1,0 +1,25 @@
+#home{
+    height:550px;
+    width: 90%;
+    /* background-color: violet; */
+    margin: 0 auto;
+    
+}
+#parent1{
+    display: flex;
+    justify-content: space-between;
+}
+#parent{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 320px;
+}
+#child{
+    height: 120px;
+    width: 45%;
+}
+#child1{
+    height: 120px;
+    width: 50%;
+}
+
